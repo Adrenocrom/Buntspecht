@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1352822196 source:/home/josef/Dokumente/Studium/Buntspecht/EMdictionary.cpp
+	"buntspecht.h"
+
+1354714794 /home/josef/Dokumente/Studium/Buntspecht/buntspecht.h
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<ctime>
+	<list>
+	<map>
+	<pthread.h>
+	"dictionary.h"
+	"fileReader.h"
+	"EMdictionary.h"
+	"emThreads.h"
+	"translater.h"
+
+1352751585 /home/josef/Dokumente/Studium/Buntspecht/dictionary.h
+
+1352660463 /home/josef/Dokumente/Studium/Buntspecht/fileReader.h
+
+1354712800 /home/josef/Dokumente/Studium/Buntspecht/EMdictionary.h
+
+1352755742 /home/josef/Dokumente/Studium/Buntspecht/emThreads.h
+
+1352053790 source:/home/josef/Dokumente/Studium/Buntspecht/buntspecht.cpp
+	"buntspecht.h"
+
+1354713831 source:/home/josef/Dokumente/Studium/Buntspecht/dictionary.cpp
+	"buntspecht.h"
+
+1354713938 source:/home/josef/Dokumente/Studium/Buntspecht/emThreads.cpp
+	"buntspecht.h"
+
+1352729432 source:/home/josef/Dokumente/Studium/Buntspecht/fileReader.cpp
+	"buntspecht.h"
+
+1352822148 source:/home/josef/Dokumente/Studium/Buntspecht/main.cpp
+	"buntspecht.h"
+
+1352063328 /home/josef/Dokumente/Studium/Buntspecht/sentence.h
+
+1354714973 /home/josef/Dokumente/Studium/Buntspecht/translater.h
+
